@@ -1,0 +1,8 @@
+customtkinter
+speechrecognition
+pyttsx3
+pyaudio
+wikipedia
+requests
+pyautogui
+python-dotenv
